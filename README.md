@@ -45,7 +45,7 @@ Projects/
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/<your-username>/Projects.git
+git clone https://github.com/gordonmike/Projects.git
 ```
 
 2. Navigate to the project folder you want to try:
