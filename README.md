@@ -42,11 +42,13 @@ Projects/
 
 ## ⚡ Getting Started
 
+Clone this repository or Download the files directly
+
 1. Clone this repository:
 
-   OR
+   
 
-Download the files directly
+
 
 ```bash
 git clone https://github.com/gordonmike/Projects.git
