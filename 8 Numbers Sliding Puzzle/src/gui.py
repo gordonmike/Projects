@@ -51,11 +51,12 @@ if __name__ == "__main__":
              5, 2, 4,
              6, 0, 8]
 
-    goal = [1, 2, 3,
-            4, 5, 6,
-            7, 8, 0]
+    goal = [1, 4, 6,
+            7, 2, 0,
+            5, 8, 3]
 
     root = tk.Tk()
     root.title("8-Puzzle A* Visualizer")
     app = PuzzleGUI(root, start, goal)
     root.mainloop()
+
