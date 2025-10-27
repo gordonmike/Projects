@@ -68,7 +68,7 @@ cd Projects/8-puzzle-astar
 
 ## 📫 Contact
 
-For questions or suggestions, feel free to reach out via GitHub or email.  
+For questions or suggestions, feel free to reach out via GitHub or email at **affankabir@gmail.com**
 
 ---
 
